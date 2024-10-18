@@ -46,7 +46,7 @@ This question is a follow-up to the previous one. Please refer to the image prov
 **Format Flag:** CTF{Model}
 For example, if the model is Samsung Galaxy S21, the flag should be written as: CTF{Samsung_Galaxy_S21}.
 
-**Solutions: **
+**Solutions:**
 - Open the downloaded photo with Exif Pilot
 - Go to the Exif tab and View the [Model] Row
 - Flag: CTF{OPPO_A76}
@@ -58,17 +58,17 @@ This question is a follow-up to the previous one. Please refer to the image prov
 **Format Flag:** CTF{YYYY-MM-DD_HH:MM:SS}
 Note: HH is the hour in 24-hour format, MM is minutes, and SS is seconds.
 
-**Solutions: **
+**Solutions:**
 - Open the downloaded photo with Exif Pilot
 - Go to the Exif tab and View the [DateTime] Row
 - Flag: CTF{2024-04-09_13:52:15}
  
-**Question 6: **
+**Question 6:**
 Can you find the registration number of the gallery from the image provided in Question 3?  (Continued)
 
-**Flag Format: **CTF{Registration-Number}
+**Flag Format:** CTF{Registration-Number}
 
-**Solutions: **
+**Solutions:**
 - Google Search Ilham Gallery
 - http://www.ilhamgallery.com/about/
 - Flag: CTF{1300502-A}
